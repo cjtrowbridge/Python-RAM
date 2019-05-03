@@ -1,5 +1,5 @@
 import random
-inport sys
+import sys
 
 array = []*12000
 bitlist = []
