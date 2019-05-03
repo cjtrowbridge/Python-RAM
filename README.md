@@ -14,9 +14,9 @@ Fill the Array with Random Data. (8bits each)
 
 Read and Return(display) the data from 
 the 100th record 
-the 1000th recordo
+the 1000th record
 
-verwrite the 99th record and the 999th record with zero’s  
+overwrite the 99th record and the 999th record with zero’s  
 
 Again 
 Read and Return the data from the 100th record 
